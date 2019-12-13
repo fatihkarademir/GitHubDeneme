@@ -1,0 +1,2 @@
+# GitHubDeneme
+GitHub ögreniyorum
